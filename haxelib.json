@@ -1,0 +1,14 @@
+{
+	"name": "tinx_autospod",
+	"url" : "http://haxetink.org/tinx_autospod",
+	"license": "MIT",
+	"tags": ["tink", "sys", "spod"],
+	"description": "Tinkerbell Auto SPOD extension",
+	"version": "0.0.0",
+	"releasenote": "Initial version",
+	"contributors": ["back2dos"], 
+  "dependencies": {
+    "tink_macro": ""
+  },
+	"classPath": "src" 
+}
